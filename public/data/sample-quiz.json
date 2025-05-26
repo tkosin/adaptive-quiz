@@ -1,0 +1,87 @@
+{
+  "title": "Sample Quiz - Basic Knowledge Test",
+  "totalQuestions": 5,
+  "createdDate": "2025-01-26",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "What is the capital of Thailand?",
+      "options": {
+        "1": "Bangkok",
+        "2": "Chiang Mai",
+        "3": "Phuket",
+        "4": "Pattaya"
+      },
+      "answer": "1",
+      "explanation": "Bangkok is the capital and most populous city of Thailand.",
+      "difficultyLevel": "Easy",
+      "knowledgeLevel": "Basic",
+      "testingObjective": "Test basic geographical knowledge"
+    },
+    {
+      "id": 2,
+      "category": "Mathematics",
+      "question": "What is 15 + 27?",
+      "options": {
+        "1": "40",
+        "2": "41",
+        "3": "42",
+        "4": "43"
+      },
+      "answer": "3",
+      "explanation": "15 + 27 = 42. This is a basic addition problem.",
+      "difficultyLevel": "Easy",
+      "knowledgeLevel": "Basic",
+      "testingObjective": "Test basic arithmetic skills"
+    },
+    {
+      "id": 3,
+      "category": "Science",
+      "question": "What is the chemical symbol for water?",
+      "options": {
+        "1": "O2",
+        "2": "H2O",
+        "3": "CO2",
+        "4": "NaCl"
+      },
+      "answer": "2",
+      "explanation": "H2O is the chemical formula for water, consisting of 2 hydrogen atoms and 1 oxygen atom.",
+      "difficultyLevel": "Easy",
+      "knowledgeLevel": "Basic",
+      "testingObjective": "Test basic chemistry knowledge"
+    },
+    {
+      "id": 4,
+      "category": "History",
+      "question": "In which year did World War II end?",
+      "options": {
+        "1": "1943",
+        "2": "1944",
+        "3": "1945",
+        "4": "1946"
+      },
+      "answer": "3",
+      "explanation": "World War II ended in 1945 with the surrender of Japan on September 2, 1945.",
+      "difficultyLevel": "Medium",
+      "knowledgeLevel": "Intermediate",
+      "testingObjective": "Test historical knowledge"
+    },
+    {
+      "id": 5,
+      "category": "Technology",
+      "question": "What does 'CPU' stand for in computer terminology?",
+      "options": {
+        "1": "Computer Processing Unit",
+        "2": "Central Processing Unit",
+        "3": "Core Processing Unit",
+        "4": "Computer Power Unit"
+      },
+      "answer": "2",
+      "explanation": "CPU stands for Central Processing Unit, which is the primary component of a computer that performs most of the processing.",
+      "difficultyLevel": "Easy",
+      "knowledgeLevel": "Basic",
+      "testingObjective": "Test basic computer knowledge"
+    }
+  ]
+}
